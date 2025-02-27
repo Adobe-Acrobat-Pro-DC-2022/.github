@@ -1,0 +1,1 @@
+console.log("ArchiCad is active!");
